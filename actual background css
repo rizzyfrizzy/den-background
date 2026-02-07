@@ -1,0 +1,6 @@
+body {
+  background: url('https://cdn.discordapp.com/attachments/1469588534984966195/1469589941226049578/image.png?ex=698835c9&is=6986e449&hm=1eef482233de5a9c5994324e7647b8140b2d4f4960563e90ac5ed66aa4b0225d&') center center fixed;
+  background-size: cover;
+  font-family: 'Open Sans';
+  color: #000000;
+}
