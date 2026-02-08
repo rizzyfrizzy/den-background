@@ -1,0 +1,6 @@
+body {
+  background: url("https://image2url.com/r2/default/images/1770451217300-5500b6b5-693f-4d49-b670-b444893ae904.png") center center fixed;
+  background-size: cover;
+  font-family: "Open Sans";
+  color: #000000;
+}
